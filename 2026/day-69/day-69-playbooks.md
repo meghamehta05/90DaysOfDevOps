@@ -1,4 +1,3 @@
-2026/day-69/day-69-playbooks.md
 
  1. What is a Playbook? 
 

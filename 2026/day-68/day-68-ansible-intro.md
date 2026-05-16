@@ -1,6 +1,3 @@
-Create file:
-
-2026/day-68/day-68-ansible-intro.md
 
  1. Ansible Architecture (Write this in your file)
 What is Configuration Management?
