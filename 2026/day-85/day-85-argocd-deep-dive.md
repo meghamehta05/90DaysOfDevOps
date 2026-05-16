@@ -125,8 +125,3 @@ ArgoCD is not just a deployment tool — it is a full production control system 
 
 
 
-Then:
-
-git add 2026/day-85/day-85-argocd-deep-dive.md
-git commit -m "Day 85: ArgoCD deep dive - sync waves, rollback, app of apps"
-git push origin main
